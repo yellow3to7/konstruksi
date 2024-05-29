@@ -1,0 +1,17 @@
+{
+    "name": "iqlima/konsturuksi",
+    "description": "pembuatan library sederhana",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "iqlimakhairunnisa",
+            "email": "iqlimakhairuunisa@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"iqlima\\konstruksi\\" : "src"}
+    },
+    "require": {}
+}
